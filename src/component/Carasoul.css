@@ -1,0 +1,21 @@
+/* button{
+    font-size:150%;
+    position: relative;
+    top:-200px;
+    right: -20px;
+    
+} */
+
+.rightbt{
+    font-size:150%;
+position: relative;
+right: -610px;
+bottom: 230px;
+
+}
+.leftbt{
+    font-size:150%;
+    position: relative;
+    left: 20px;
+    bottom: 200px;
+    }

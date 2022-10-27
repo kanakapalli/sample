@@ -1,0 +1,21 @@
+.secondDiv{
+    margin-top: 2%;
+    width: 750px;
+    padding: 0;
+}
+
+.secondDiv p{
+    width: 200px;
+    margin: 1%;
+    padding-top: 2.2%;
+    text-align: center;
+    height: 60px;
+    display: inline-block;
+    color: azure;
+    background-color: darkgrey;
+    cursor: pointer;
+}
+.secondDiv p:hover{
+    border: 1px solid whitesmoke;
+    box-shadow: 0 0 7px white;
+}

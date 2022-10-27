@@ -1,0 +1,11 @@
+.secondDiv  {
+    width: 200px;
+    /* margin: 1%; */
+    padding-top: 2.2%;
+    text-align: center;
+    height: 60px;
+    /* display: inline-block; */
+    /* color: azure; */
+    background-color: darkgrey;
+    cursor: pointer;
+}
